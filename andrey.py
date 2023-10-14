@@ -1,4 +1,4 @@
-with open('26-111.txt') as F:
+with open('data.txt') as F:
   K = int(F.readline())
   N = int(F.readline())
   data = []
